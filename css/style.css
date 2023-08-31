@@ -1,0 +1,10 @@
+*{
+    font-family: century gothic;
+}
+
+.sec_width{
+    height: 94vh;
+    background: url("../assets/imgd/img1.jpg");
+    background-size: cover;
+    backdrop-filter: blur(10px);
+}
