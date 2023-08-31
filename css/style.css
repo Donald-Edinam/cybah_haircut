@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&family=Ubuntu&display=swap');
+
 *{
-    font-family: century gothic;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.logo{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 35px;
 }
 
 .sec_width{
