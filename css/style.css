@@ -10,5 +10,7 @@ body{
 }
 
 .img-overlay{
-  background: url('./assets/img-1.jpg');
+  background: url('../images/img_22.jpg');
+  background-size: cover;
+  color: aliceblue;
 }
